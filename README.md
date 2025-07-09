@@ -1,5 +1,3 @@
-# GEX-Levels
-
 # Deribit Gamma Exposure (GEX) Analysis
 
 This Python script retrieves real-time Bitcoin (BTC) options data from the Deribit exchange and calculates **Gamma Exposure (GEX)** metrics, inspired by the [Gamma Exposure (GEX) whitepaper by SqueezeMetrics](https://squeezemetrics.com/download/white_paper.pdf).
