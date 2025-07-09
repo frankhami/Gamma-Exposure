@@ -33,7 +33,7 @@ for i, instrument_id in enumerate(instrument_ids):
             
             extracted_info = {
                 'instrument_name': order_data[instrument_id].get('instrument_name'),
-                'gamma': greeks.get('gamma'),  # Access gamma inside greeks
+                'gamma': greeks.get('gamma'),
                 'open_interest': order_data[instrument_id].get('open_interest'),
                 'index_price': order_data[instrument_id].get('index_price')
             }

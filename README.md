@@ -6,7 +6,8 @@ This Python script retrieves real-time Bitcoin (BTC) options data from the Derib
 
 ## Overview
 
-**Gamma Exposure (GEX)** quantifies the rebalancing pressure exerted by options market-makers due to dynamic hedging of their delta exposure. This pressure can influence market volatility and price behavior.
+> “The predictive power of GEX is essentially driven by the necessity of option dealers’ (market makers’) re-hedging activities. In order to limit risk and realize profit, an option market-maker must limit their exposure to deltas.”  
+> — *SqueezeMetrics, Gamma Exposure Whitepaper (2017)*
 
 This tool performs the following:
 
